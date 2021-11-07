@@ -10,5 +10,6 @@ Peli ei ole yhtään optimoitu, koska se renderöi koko kartan kerralla. Ideaali
 
 Excelin (OpenOffice Calc?) ruutu koko on Y 0.45cm ja X 0.45 cm
 
-Excel osoittautui hyvin tehokkaaksi.  kuva -->   
+Excel osoittautui hyvin tehokkaaksi.  kuva -->    
+https://wp.primocheck.site/NotSoDocs/kuva1.png
 
